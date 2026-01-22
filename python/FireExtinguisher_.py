@@ -3,6 +3,8 @@ import json
 import os
 from ultralytics import YOLO
 
+#adasd
+
 # 🔹 현재 py 파일 위치 기준
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
