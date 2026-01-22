@@ -1,0 +1,14 @@
+C:\YOLO11\cs\FireExtinguisher\bin\Debug\net8.0\FireExtinguisher.exe
+C:\YOLO11\cs\FireExtinguisher\bin\Debug\net8.0\FireExtinguisher.deps.json
+C:\YOLO11\cs\FireExtinguisher\bin\Debug\net8.0\FireExtinguisher.runtimeconfig.json
+C:\YOLO11\cs\FireExtinguisher\bin\Debug\net8.0\FireExtinguisher.dll
+C:\YOLO11\cs\FireExtinguisher\bin\Debug\net8.0\FireExtinguisher.pdb
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.AssemblyInfoInputs.cache
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.AssemblyInfo.cs
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.csproj.CoreCompileInputs.cache
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.dll
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\refint\FireExtinguisher.dll
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.pdb
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\FireExtinguisher.genruntimeconfig.cache
+C:\YOLO11\cs\FireExtinguisher\obj\Debug\net8.0\ref\FireExtinguisher.dll
